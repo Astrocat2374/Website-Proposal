@@ -27,6 +27,32 @@ li a:hover {
 	background-color: #000000;
 }
 
-.active{
+.on{
 	background-color: #800000;
+}
+
+h1{
+	font-size: 50px;
+}
+
+img{
+	display: block;
+	margin: auto;
+	width: 80%;
+	padding:10px;
+	border: 2px solid #800000;
+}
+
+.caption{
+	text-align: center;
+	padding-bottom: 20px;
+	padding-top: 10px;
+	font-style: italic;
+	font-size: 25px;
+}
+
+.paragraph{
+	padding-left: 30px;
+	padding-right: 30px;
+	font-size: 20px;
 }
